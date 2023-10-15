@@ -25,3 +25,22 @@ img {
     background-color: azure;
     text-align: justify;
 }
+
+.digital p a {
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+
+}
+
+.second p a {
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+}
+
+.analog p a {
+    font-weight: bold;
+    font-style: italic;
+    color: black
+}
